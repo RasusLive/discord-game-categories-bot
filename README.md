@@ -1,4 +1,4 @@
-# discord-game-categories-bot
+
 # Discord Game Categories Bot (non-commercial)
 
 This Discord community bot uses the RAWG API to:
